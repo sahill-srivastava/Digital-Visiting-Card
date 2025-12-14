@@ -130,6 +130,10 @@ body {
         border-radius: 0;
     }
 
+    .img-container {
+    margin-top: 2rem;
+}
+
     .qr-container {
         display: none;
     }
